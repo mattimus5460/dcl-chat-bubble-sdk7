@@ -1,5 +1,12 @@
 # SDK7 Scene Chat Bubble
 
+This project uses the [DCL NPC Toolkit](https://github.com/decentraland-scenes/dcl-npc-toolkit)
+and [DCL UI Toolkit](https://github.com/decentraland-scenes/dcl-ui-toolkit) to add an input box to send a message that displays in a chat bubble above the player's head.
+
+![Example chat bubble](https://github.com/mattimus5460/dcl-chat-bubble-sdk7/blob/main/images/example.png?raw=true)
+
+![Example UI input box](https://github.com/mattimus5460/dcl-chat-bubble-sdk7/blob/main/images/ui.png?raw=true)
+
 
 **Previewing the scene**
 
@@ -19,7 +26,7 @@ npm run start
 
 ## To include in your scene
 
-## Required dependencies
+### Required dependencies
 
 - [DCL NPC Toolkit (SDK7)](https://github.com/decentraland-scenes/dcl-npc-toolkit)
 - [DCL UI Toolkit (SDK7)](https://github.com/decentraland-scenes/dcl-ui-toolkit)
